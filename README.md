@@ -53,7 +53,7 @@ This project analyzes Instagram post reach using Python and Machine Learning tec
 ## Prediction Example
 Using the trained model, you can predict the reach of an Instagram post based on its engagement metrics. Example input:
 
-features = [[282, 233, 4, 9, 165, 54]]
+features = [[282, 233, 4, 9, 165, 54]].
 predicted_reach = model.predict(features).
 
 ## Dataset
